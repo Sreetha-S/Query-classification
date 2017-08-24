@@ -5,3 +5,6 @@ The python code fetches the training data from the folder /trainData and creates
 
 To run the code:
   python QueClassification.py
+  
+Dependencies:
+scikit learn, regex, pickle
